@@ -22,3 +22,4 @@
 #### Trie
 - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [Longest Word With All Prefix](https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/2186386190/)
